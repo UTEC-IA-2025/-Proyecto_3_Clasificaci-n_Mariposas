@@ -66,8 +66,7 @@ El notebook [`Grafica Comparativa EXP1_7.ipynb`](./Grafica%20Comparativa%20EXP1_
 
 La siguiente figura muestra un ejemplo de la **precisión de validación vs. número de épocas**, incluida en el notebook comparativo:  
 
-*(Aquí puedes insertar una imagen exportada del notebook, por ejemplo `imagenes/precision_validacion_mlp.png`)*  
-
+![Precisión vs Épocas](images/Imagen1.png)
 ---
 
 ## 🚀 Cómo Usar este Proyecto
