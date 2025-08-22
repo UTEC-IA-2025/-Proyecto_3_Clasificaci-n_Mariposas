@@ -8,7 +8,8 @@ A través de una serie de experimentos, se evalúa cómo diferentes configuracio
 ## 📁 Estructura del Proyecto
 
 El repositorio está organizado de la siguiente manera:
-
+- `docs/`: Carpeta con archivos **CSV de métricas de cada experimento**, usados en la gráfica comparativa
+- `imagenes/`: Carpeta con **ejemplos de mariposas** y **gráficas exportadas** para el README    
 - `EXP01_...`: Notebook de Jupyter del **Experimento 1**  
 - `EXP02_...`: Notebook de Jupyter del **Experimento 2**  
 - `EXP03_...`: Notebook de Jupyter del **Experimento 3**  
